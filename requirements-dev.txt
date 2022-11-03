@@ -6,7 +6,7 @@
 #
 astroid==2.12.12          # via pylint
 attrs==22.1.0             # via pytest
-black==22.10.0            # via quaker (setup.py)
+black==22.10.0            # via PLACEHOLDER (setup.py)
 build==0.9.0              # via pip-tools
 click==8.1.3              # via black, pip-tools
 dill==0.3.6               # via pylint
@@ -19,12 +19,12 @@ mypy-extensions==0.4.3    # via black
 packaging==21.3           # via build, pytest
 pathspec==0.10.1          # via black
 pep517==0.13.0            # via build
-pip-tools==6.9.0          # via quaker (setup.py)
+pip-tools==6.9.0          # via PLACEHOLDER (setup.py)
 platformdirs==2.5.2       # via black, pylint
 pluggy==1.0.0             # via pytest
-pylint==2.15.5            # via quaker (setup.py)
+pylint==2.15.5            # via PLACEHOLDER (setup.py)
 pyparsing==3.0.9          # via packaging
-pytest==7.2.0             # via quaker (setup.py)
+pytest==7.2.0             # via PLACEHOLDER (setup.py)
 tomli==2.0.1              # via black, build, pylint, pytest
 tomlkit==0.11.6           # via pylint
 typing-extensions==4.4.0  # via astroid, black, pylint
