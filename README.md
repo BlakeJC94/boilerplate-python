@@ -2,7 +2,13 @@
 Short description here.
 
 ## Installation
-TODO
+Clone the repo to your system and install
+
+```bash
+$ git clone https://github.com/PLACEHOLDER
+$ cd PLACEHOLDER
+$ pip install .
+```
 
 ## Quickstart
 TODO
@@ -28,7 +34,7 @@ Pull requests are most welcome!
 Virtual environment handling by `pyenv` is preferred:
 ```bash
 # in the project directory
-$ pyenv virtualenv 3.9.7 bumper
-$ pyenv local bumper
+$ pyenv virtualenv 3.9.7 PLACEHOLDER
+$ pyenv local PLACEHOLDER
 $ pip install -e .
 ```
