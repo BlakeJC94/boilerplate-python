@@ -139,7 +139,7 @@ min-public-methods = 0
 
 [tool.pytest.ini_options]
 
-addopts = "--doctest-modules"
+addopts = "--doctest-modules --doctest-continue-on-failure"
 
 # filterwarnings = [
 #     "ignore:PLACEHOLDER is deprecated:DeprecationWarning",
