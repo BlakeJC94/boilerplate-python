@@ -137,3 +137,10 @@ max-statements = 50
 min-public-methods = 0
 
 
+[tool.pytest.ini_options]
+
+addopts = "--doctest-modules"
+
+# filterwarnings = [
+#     "ignore:PLACEHOLDER is deprecated:DeprecationWarning",
+# ]
