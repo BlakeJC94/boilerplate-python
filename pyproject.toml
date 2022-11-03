@@ -141,6 +141,8 @@ min-public-methods = 0
 
 addopts = "--doctest-modules --doctest-continue-on-failure"
 
+doctest_optionflags = "NORMALIZE_WHITESPACE IGNORE_EXCEPTION_DETAIL NUMBER"
+
 # filterwarnings = [
 #     "ignore:PLACEHOLDER is deprecated:DeprecationWarning",
 # ]
